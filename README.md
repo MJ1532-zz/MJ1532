@@ -22,12 +22,12 @@ I Work as Discord Bot Builder
 <br/>
 
 # Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kabirsingh2004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MJGaming1532&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
 
 <div align="center">
-<p><a href="https://github.com/KabirJaipal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsingh2004&amp;layout=compact" alt="Top Langs"></a></p></div>
+<p><a href="https://github.com/MJGaming1532"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsingh2004&amp;layout=compact" alt="Top Langs"></a></p></div>
 
 # Support Me
 ## [**Subscribe To My Channel**](https://www.youtube.com/channel/UCPKOw1Rlxz8W8IVbOREk6HQ)
