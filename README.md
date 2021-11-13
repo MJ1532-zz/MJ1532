@@ -14,3 +14,6 @@ I Work as Discord Bot Builder
 <a href="https://www.youtube.com/channel/UCPKOw1Rlxz8W8IVbOREk6HQ" target="_blank">
 <img src=https://img.shields.io/badge/Youtube-%2308090A.svg?&style=for-the-badge&logo=Youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
+<a href="https://dsc.gg/mjgaming1532" target="_blank">
+<img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
+</a>  
