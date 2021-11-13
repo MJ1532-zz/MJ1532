@@ -17,3 +17,18 @@ I Work as Discord Bot Builder
 <a href="https://dsc.gg/mjgaming1532" target="_blank">
 <img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
 </a>  
+</div>
+
+<br/>
+
+# Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kabirsingh2004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/>
+
+<div align="center">
+<p><a href="https://github.com/KabirJaipal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsingh2004&amp;layout=compact" alt="Top Langs"></a></p></div>
+
+# Support Me
+## [**Subscribe To My Channel**](https://www.youtube.com/channel/UCPKOw1Rlxz8W8IVbOREk6HQ)
+## [**Join My Discord**](https://dsc.gg/mjgaming1532)
