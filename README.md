@@ -27,7 +27,7 @@ I Work as Discord Bot Builder
 <br/>
 
 <div align="center">
-<p><a href="https://github.com/MJGaming1532"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsingh2004&amp;layout=compact" alt="Top Langs"></a></p></div>
+<p><a href="https://github.com/MJGaming1532"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJGaming1532&amp;layout=compact" alt="Top Langs"></a></p></div>
 
 # Support Me
 ## [**Subscribe To My Channel**](https://www.youtube.com/channel/UCPKOw1Rlxz8W8IVbOREk6HQ)
