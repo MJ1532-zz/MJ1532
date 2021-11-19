@@ -4,7 +4,7 @@ I'm **MJGaming1532**
 I Work as Discord Bot Builder
 
 - 🔭 I’m currently working on discord bot builder
-- 🌱 I’m currently learning discord.js & javascript
+- 🌱 I’m currently learning discord.js & node.js
 
 ## Contact Me
 <div align="center">
