@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **MJGaming1532**
+I'm **MJ1532**
 I Work as Discord Bot Builder
 
 - 🔭 I’m currently working on discord bot builder
